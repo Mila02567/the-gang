@@ -62,8 +62,8 @@ h4 {
   transform: rotate(15deg);
 }
 
-.bored-guy {
-  background: url(img/bored-guy.png) no-repeat 0 0;
+.hat-guy {
+  background: url(img/hat-guy.png) no-repeat 0 0;
   width: 309px;
   height: 371px;
   position: absolute;
@@ -71,8 +71,8 @@ h4 {
   right: 277px;
 }
 
-.hat-guy {
-  background: url(img/hat-guy.png) no-repeat 0 0;
+.bored-guy {
+  background: url(img/bored-guy.png) no-repeat 0 0;
   width: 297px;
   height: 286px;
   position: absolute;
@@ -118,8 +118,8 @@ button.cta.alt {
         <a class="cta alt" href="#more-info">Read More</a>
       </div>
       <div class="circle-guy"></div>
-      <div class="bored-guy"></div>
       <div class="hat-guy"></div>
+      <div class="bored-guy"></div>
     </div>
 
 */
