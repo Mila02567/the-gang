@@ -50,6 +50,12 @@ h4 {
 
 a.cta,
 button.cta {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  background-color: #007fff;
+  display: inline-block;
+  border: 10px solid rgba(0, 0, 0, 0.15);
 }
 
 a.cta.alt,
