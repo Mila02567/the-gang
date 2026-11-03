@@ -42,7 +42,7 @@ h4 {
   margin: 0;
 }
 
-.character1 {
+.circle-guy {
   background: url(img/circle-guy.png) no-repeat 0 0;
   background-size: 100%;
   width: 363px;
@@ -52,7 +52,8 @@ h4 {
   right: 89px;
 }
 
-.character2 {
+.bored-guy {
+  background: url(img/bored-guy.png) no-repeat 0 0;
   width: 309px;
   height: 371px;
   position: absolute;
@@ -60,7 +61,8 @@ h4 {
   right: 277px;
 }
 
-.character3 {
+.hat-guy {
+  background: url(img/hat-guy.png) no-repeat 0 0;
   width: 297px;
   height: 286px;
   position: absolute;
