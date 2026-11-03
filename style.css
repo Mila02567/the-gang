@@ -22,6 +22,8 @@ h4 {
   height: 100vh;
   padding: 50 20px;
   box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
 }
 
 .hero-banner h1 {
@@ -41,12 +43,29 @@ h4 {
 }
 
 .character1 {
+  background: url(img/circle-guy.png) no-repeat 0 0;
+  background-size: 100%;
+  width: 363px;
+  height: 344px;
+  position: absolute;
+  top: 117px;
+  right: 89px;
 }
 
 .character2 {
+  width: 309px;
+  height: 371px;
+  position: absolute;
+  top: 213px;
+  right: 277px;
 }
 
 .character3 {
+  width: 297px;
+  height: 286px;
+  position: absolute;
+  bottom: 74px;
+  right: 109px;
 }
 
 a.cta,
