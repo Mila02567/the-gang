@@ -24,6 +24,16 @@ h4 {
   padding: 0 20px;
 }
 
+.hero-banner h1 {
+  color: white;
+  margin: 14px 0 20px;
+}
+
+.hero-banner h3 {
+  color: black;
+  margin: 0;
+}
+
 .hero-banner h4,
 .her-banner h4 a {
   color: white;
