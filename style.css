@@ -51,7 +51,8 @@ h4 {
   height: 344px;
   position: absolute;
   top: 117px;
-  right: 89px;
+  right: 10%;
+  transform: rotate(15deg);
 }
 
 .character2 {
