@@ -89,7 +89,7 @@ button.cta {
 a.cta.alt,
 button.cta.alt {
   background-color: #ffd400;
-  color: #1111111;
+  color: #111;
   box-shadow: 0 0 0 10px rgba(0, 127, 255, 0.15);
 }
 
