@@ -27,7 +27,7 @@ h4 {
   margin: 0 auto;
 }
 .hero-banner {
-  background-color: #007fff;
+  background-color: blue;
   min-height: 100vh;
   padding: 50 20px;
   box-sizing: border-box;
