@@ -51,7 +51,7 @@ h4 {
   margin: 0;
 }
 
-.character1 {
+.circle-guy {
   background: url(img/circle-guy.png) no-repeat 0 0;
   background-size: 100%;
   width: 363px;
@@ -62,7 +62,7 @@ h4 {
   transform: rotate(15deg);
 }
 
-.character2 {
+.bored-guy {
   background: url(img/bored-guy.png) no-repeat 0 0;
   width: 309px;
   height: 371px;
@@ -117,8 +117,8 @@ button.cta.alt {
         </h3>
         <a class="cta alt" href="#more-info">Read More</a>
       </div>
-      <div class="character1"></div>
-      <div class="character2"></div>
+      <div class="circle-guy"></div>
+      <div class="bored-guy"></div>
       <div class="character3"></div>
     </div>
 
