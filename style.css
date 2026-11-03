@@ -55,11 +55,17 @@ button.cta {
   color: white;
   background-color: #007fff;
   display: inline-block;
-  border: 10px solid rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 0 10px rgba(0, 127, 255, 0.15);
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-decoration: none;
 }
 
 a.cta.alt,
 button.cta.alt {
+  background-color: #ffd400;
+  color: #1111111;
+  box-shadow: 0 0 0 10px rgba(0, 127, 255, 0.15);
 }
 
 /*
