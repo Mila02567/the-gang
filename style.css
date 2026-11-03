@@ -64,6 +64,7 @@ h4 {
 
 .hat-guy {
   background: url(img/hat-guy.png) no-repeat 0 0;
+  background-size: 100%;
   width: 309px;
   height: 371px;
   position: absolute;
@@ -73,6 +74,7 @@ h4 {
 
 .bored-guy {
   background: url(img/bored-guy.png) no-repeat 0 0;
+  background: 100%;
   width: 297px;
   height: 286px;
   position: absolute;
