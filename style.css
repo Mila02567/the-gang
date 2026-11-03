@@ -71,7 +71,7 @@ h4 {
   right: 277px;
 }
 
-.character3 {
+.hat-guy {
   background: url(img/hat-guy.png) no-repeat 0 0;
   width: 297px;
   height: 286px;
@@ -119,7 +119,7 @@ button.cta.alt {
       </div>
       <div class="circle-guy"></div>
       <div class="bored-guy"></div>
-      <div class="character3"></div>
+      <div class="hat-guy"></div>
     </div>
 
 */
