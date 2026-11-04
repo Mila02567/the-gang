@@ -188,6 +188,8 @@ nav ul li a{
   padding: 20px 20px 0 20px;
   box-sizing: border-box;
   background-color: #ededed;
+  float: left;
+  margin: 0 20px 20px 0;
 }
 
 .nb-list li{
@@ -198,6 +200,8 @@ nav ul li a{
   font-weight: bold;
   display: block;
   margin-bottom: 20px;
+  padding: 6px 20px;
+  box-sizing: border-box;
 }
 
 .nb-list li.red{background-color: #FF3300;}
@@ -208,7 +212,7 @@ nav ul li a{
   color: #111;
 }
 .nb-list li.pink{background-color: pink;}
-.nb-list li.salmon{background-color: FA8072;}
+.nb-list li.salmon{background-color: rgb(248, 66, 96);}
 
 /*
 
