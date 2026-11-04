@@ -104,24 +104,12 @@ button.cta.alt {
 
 /*
 
-<div class="hero-baner">
-      <div class="wrapper">
-        <h4>
-          Rich from <a href="https://taptapkaboom.com"> Tap Kaboom</a> present
-        </h4>
-        <h1>
-          The Silliest &amp;<br />Most Awesome Gang<br />
-          In The World!
-        </h1>
-        <h3>
-          It's Circle Guy, Hat Guy &amp; Red Guy.<br />They're the best of
-          friends.
-        </h3>
-        <a class="cta alt" href="#more-info">Read More</a>
-      </div>
-      <div class="circle-guy"></div>
-      <div class="hat-guy"></div>
-      <div class="bored-guy"></div>
-    </div>
-
-*/
+<nav>
+      <a href="#" class="logo">The Gang</a>
+      <ul>
+        <li><a href="#">Sign Up</a></li>
+        <li><a href="#story">The Story</a></li>
+        <li><a href="#more-info">More Info</a></li>
+      </ul>
+    </nav>
+/*
