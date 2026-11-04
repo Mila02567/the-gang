@@ -185,6 +185,9 @@ nav ul li a{
 
 .nb-list{
   width: 470px;
+  padding: 20px 20px 0 20px;
+  box-sizing: border-box;
+  background-color: #ededed;
 }
 
 .nb-list li{
@@ -194,6 +197,7 @@ nav ul li a{
   color:white;
   font-weight: bold;
   display: block;
+  margin-bottom: 20px;
 }
 
 .nb-list li.red{background-color: #FF3300;}
