@@ -180,7 +180,14 @@ nav ul li a{
 }
 
 .sep{
+  width: 470px;
+  height: 10px;
+  background-color: #111;
+  margin: 70px auto;
+}
 
+.story h3{
+  font-size: 40px;
 }
 
 .nb-list{
