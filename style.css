@@ -188,6 +188,7 @@ nav ul li a{
 
 .story h3{
   font-size: 40px;
+  font-weight: 800px;
 }
 
 .nb-list{
@@ -238,6 +239,8 @@ nav ul li a{
   width: 54px;
   height: 50px;
   background-size: 100%;
+  bottom: -30;
+  left: 60%;
 }
 
 .gang-img{
