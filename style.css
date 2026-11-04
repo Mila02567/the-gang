@@ -197,6 +197,7 @@ nav ul li a{
   background-color: #ededed;
   float: left;
   margin: 0 20px 20px 0;
+  position: relative;
 }
 
 .nb-list li{
@@ -220,6 +221,41 @@ nav ul li a{
 }
 .nb-list li.pink{background-color: pink;}
 .nb-list li.salmon{background-color: rgb(248, 66, 96);}
+
+.nb-list li.dragging{
+  position: absolute;
+  top: 70px;
+  left: 70px;
+  right: -30px;
+  transform: rotate(6deg);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.3);
+}
+
+.nb-list li.dragging:after{
+  content: '';
+  display: block;
+  position: absolute;
+  width: 54px;
+  height: 50px;
+  background-size: 100%;
+}
+
+.gang-img{
+  display: block;
+  margin: 0 auto;
+}
+
+footer{
+  text-align: center;
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+  margin: 85px 0 45px;
+  font-weight: bold;
+}
+
+footer a{
+  color: rgba(0, 0, 0, 0.4);
+}
 
 /*
 
