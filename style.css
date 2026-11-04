@@ -104,6 +104,14 @@ button.cta {
   padding: 20px 30px;
   border-radius: 10px;
   text-decoration: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+a.cta:active,
+button.cta:active{
+  opacity: .7;
 }
 
 a.cta.alt,
@@ -119,6 +127,7 @@ nav{
   box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
   position: sticky;
   top: 0;
+  z-index: 1;
 }
 
 nav .logo{
@@ -258,6 +267,10 @@ footer{
 
 footer a{
   color: rgba(0, 0, 0, 0.4);
+}
+
+.popup{
+  display: none;
 }
 
 /*
